@@ -1,6 +1,6 @@
-# TaskMaster - Task Management Application
+# Listify - Task Management Application
 
-TaskMaster is a full-stack task management application built with React and Node.js.
+Listify is a full-stack task management application built with React and Node.js.
 
 ## Features
 
@@ -37,7 +37,7 @@ TaskMaster is a full-stack task management application built with React and Node
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/taskmaster.git
+git clone https://github.com/yourusername/lisitify.git
 cd taskmaster
 ```
 
