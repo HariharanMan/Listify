@@ -37,8 +37,8 @@ Listify is a full-stack task management application built with React and Node.js
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/lisitify.git
-cd taskmaster
+git clone https://github.com/yourusername/listify.git
+cd listify
 ```
 
 2. Install dependencies
@@ -53,7 +53,7 @@ Create a `.env` file in the root directory and add the following variables (or u
 
 ```
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/taskmaster
+MONGO_URI=Your_URL
 JWT_SECRET=yoursecretkey123
 NODE_ENV=development
 ```
